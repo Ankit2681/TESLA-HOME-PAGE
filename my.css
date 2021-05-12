@@ -191,13 +191,9 @@ button{
         transition: 1s ease-in-out;
     }
 }
-@media (max-width: 700px){
+@media  (max-width: 700px){
     html {
         scroll-behavior: smooth;
-    }
-    body{
-        margin: 0%;
-        padding: 0%;
     }
     .navbar nav form {
         display: none;
@@ -228,7 +224,6 @@ button{
         right: 30px;
         font-size: 10px;
         width:max-content;
-        z-index: -1;
     }
     .content2 p {
         position: relative;
@@ -236,7 +231,6 @@ button{
         right: 30px;
         font-size: 10px;
         width:max-content;
-        z-index: -1;
     }
     .content3 p {
         position: relative;
@@ -244,7 +238,6 @@ button{
         right: 30px;
         font-size: 10px;
         width:max-content;
-        z-index: -1;
     }
     .content4 p {
         position: relative;
@@ -252,7 +245,6 @@ button{
         right: 30px;
         font-size: 10px;
         width:max-content;
-        z-index: -1;
     }
     .content2 {
         background: url(images/phone2.jpeg);
@@ -300,7 +292,6 @@ button{
         right: 180px;
         font-size: 10px;
         width:max-content;
-        z-index: -1;
     }
     .content6 h4 {
         font-size: 25px;
@@ -310,7 +301,7 @@ button{
         top: 35px;
         right: 10px;
         font-size: 10px;
-        z-index: -1;
+   
     }
     .content6 {
         background: url(images/6.jpg);
